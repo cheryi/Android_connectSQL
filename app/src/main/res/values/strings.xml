@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">健康管家</string>
+    <string name="opening">藥局機器人</string>
+    <string name="eatbtn">每天吃多少</string>
+    <string name="sleepbtn">睡不好</string>
+    <string name="testbtn">檢測值</string>
+    <string name="uncomfortable">哪裡不舒服</string>
+    <string name="sleepindex">GDS-5</string>
+    <string name="yes">有</string>
+    <string name="no">沒有</string>
+    <string name="lowTitle">低血糖</string>
+    <string name="eyeTitle">眼睛</string>
+    <string name="footTitle">足部</string>
+</resources>
